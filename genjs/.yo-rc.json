@@ -1,0 +1,7 @@
+{
+  "generator-genjs": {
+    "projectName": "sample",
+    "projectVersion": "0.1",
+    "package": "org.demo"
+  }
+}
