@@ -14,7 +14,6 @@ node main.js
 Files are generated in the root of the sample project.
 
 Files :
-* ```genjs/model/model.js```: Data model
-* ```genjs/templates```: Templates files
-* ```genjs/config/config.js```: Variables
-* ```genjs/config/context.js```: Variables
+* Model : ```genjs/model/model.js```
+* Templates : ```genjs/templates```
+* Variables : ```genjs/config/config.js``` and ```genjs/config/context.js```
