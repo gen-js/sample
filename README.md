@@ -1,7 +1,6 @@
 # Sample project with GenJS
 
-* Download ZIP of this github project
-* Unzip
+* Download and unzip this github project
 * Open a terminal
 * Go to the root of this sample project
 * Install and run GenJS generator
